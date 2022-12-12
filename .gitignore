@@ -1,5 +1,7 @@
-"2022"
+*2022*
 *.pdf
-*"logs_"
-*library/.zip
+logs_*
+library/*.zip
+svastara/
+
 
